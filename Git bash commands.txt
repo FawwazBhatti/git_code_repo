@@ -1,0 +1,4 @@
+git --version :(to check the version of git)
+git init :(to initialize the git repository from the native            system)
+git status :(to track the file in the native system)
+git add . :(to add the files from the native system to                   github)
